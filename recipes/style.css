@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(241, 231, 203);
+}
+
+h1 {
+    color: rgb(228, 41, 8);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3,
+h4 {
+    font-size: 22px;
+}
+
+p,
+li {
+    font-size: 16px;
+}
